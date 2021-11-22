@@ -42,6 +42,15 @@ paths:
                     dateOfBirth: 19987-10-31
                     emailVerified: true
                     signUpDate: '2020-08-24'
+                example-2:
+                  value:
+                    id: 143
+                    firstName: Nari
+                    lastName: Kolla
+                    email: alice.smith@gmail.com
+                    dateOfBirth: '1997-10-31'
+                    emailVerified: true
+                    signUpDate: '2019-08-24'
         '404':
           description: User Not Found
           content:
