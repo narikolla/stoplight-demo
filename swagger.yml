@@ -50,7 +50,7 @@ paths:
                     dateOfBirth: '1997-10-31'
                     emailVerified: true
                     signUpDate: '2019-08-24'
-                'One Autodesk ':
+                One Autodesk:
                   value:
                     id: 1
                     firstName: One
