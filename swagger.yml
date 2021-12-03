@@ -50,15 +50,15 @@ paths:
                     dateOfBirth: '1997-10-31'
                     emailVerified: true
                     signUpDate: '2019-08-24'
-                Nick Smith:
+                'One Autodesk ':
                   value:
-                    id: 144
-                    firstName: Nick
-                    lastName: Smith
-                    email: Nick.smith@gmail.com
-                    dateOfBirth: '1995-10-31'
-                    emailVerified: false
-                    signUpDate: '2020-08-24'
+                    id: 1
+                    firstName: One
+                    lastName: Autodesk
+                    email: One.Autodesk@autodesk.com
+                    dateOfBirth: '1983-10-31'
+                    emailVerified: true
+                    signUpDate: '2019-08-24'
         '404':
           description: User Not Found
           content:
