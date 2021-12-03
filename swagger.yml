@@ -83,8 +83,6 @@ paths:
                     { 
                      
                     }
-        '501':
-          description: Not Implemented
       operationId: get-users-userId
       description: Retrieve the information of the user with the matching user ID.
     patch:
