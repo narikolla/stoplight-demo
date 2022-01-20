@@ -2,6 +2,7 @@ openapi: 3.1.0
 info:
   title: users
   version: '1.0'
+  summary: Users API
 servers:
   - url: 'http://localhost:3000'
 paths:
@@ -209,6 +210,7 @@ paths:
                   dateOfBirth: '1996-08-24'
         description: Post the necessary fields for the API to create a new user.
       description: Create a new user.
+      x-internal: false
 components:
   schemas:
     User:
