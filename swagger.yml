@@ -37,7 +37,7 @@ paths:
                   value:
                     id: 143
                     firstName: John
-                    lastName: Doe
+                    lname: Doe
                     email: John.Doe@gmail.com
                     dateOfBirth: 19987-10-31
                     emailVerified: true
@@ -231,7 +231,7 @@ components:
           description: Unique identifier for the given user.
         firstName:
           type: string
-        lastName:
+        lname:
           type: string
         email:
           type: string
