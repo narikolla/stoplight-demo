@@ -231,7 +231,7 @@ components:
           description: Unique identifier for the given user.
         firstName:
           type: string
-        lname:
+        lastname:
           type: string
         email:
           type: string
