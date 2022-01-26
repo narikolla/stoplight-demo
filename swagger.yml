@@ -236,7 +236,7 @@ components:
         email:
           type: string
           format: email
-        dateOfBirth:
+        dateOfBirth1:
           type: string
           format: date
           example: '1997-10-31'
