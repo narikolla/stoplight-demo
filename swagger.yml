@@ -31,7 +31,7 @@ paths:
                     firstName: Alice
                     lastName: Smith
                     email: alice.smith@gmail.com
-                    dateOfBirth: '1997-10-31'
+                    dob: '1997-10-31'
                     signUpDate: '2019-08-24'
                 John Doe:
                   value:
@@ -227,7 +227,7 @@ components:
         email:
           type: string
           format: email
-        dob:
+        dateOfB:
           type: string
           format: date
           example: '1997-10-31'
