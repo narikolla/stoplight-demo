@@ -60,6 +60,15 @@ paths:
                     dateOfBirth: '1983-10-31'
                     emailVerified: true
                     signUpDate: '2019-08-24'
+                New One:
+                  value:
+                    id: 999
+                    firstName: New
+                    lastName: One
+                    email: alice.smith@gmail.com
+                    dateOfBirth: '1997-10-31'
+                    emailVerified: true
+                    signUpDate: '2019-08-24'
         '404':
           description: User Not Found
           content:
