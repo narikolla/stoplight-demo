@@ -78,6 +78,15 @@ paths:
                     dateOfBirth: '1997-10-31'
                     emailVerified: true
                     signUpDate: '2019-08-24'
+                Demo Example:
+                  value:
+                    id: 999
+                    firstName: Demo
+                    lastName: Example
+                    email: Demo.Example@gmail.com
+                    dateOfBirth: '1997-10-31'
+                    emailVerified: true
+                    signUpDate: '2019-08-24'
         '404':
           description: User Not Found
           content:
